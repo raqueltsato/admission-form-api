@@ -1,0 +1,13 @@
+{
+  "name": "admin-form-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raqueltsato/admission-form-api",
+  "author": "Raquel Sato",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
